@@ -16,7 +16,7 @@ describe('My second test', () =>
 )
 
 describe('My third test', () =>
-    it ( 'Scroll to the top', ()=> {
+    it ( 'Scroll to the Top', ()=> {
         cy.scrollTo('top', { duration: 3000 })
 
     })
